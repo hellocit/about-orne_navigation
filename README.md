@@ -1,4 +1,4 @@
-## 自分の環境のsrc直下のもの
+## mouse melodicのsrc直下のもの
 * adi_driver
 * fulanghua_navigation
 * libuvc_ros
