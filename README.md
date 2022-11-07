@@ -10,3 +10,4 @@ icart_mini
 navigation
 theta_simple_stitching
 ypspur
+## 上記のもののlaunchディレクトリの中身をみればそれぞれの依存関係を閲覧できる。
