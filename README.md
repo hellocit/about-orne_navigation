@@ -1,5 +1,6 @@
 # orne_navigationについての理解が浅いため調査する．
 ## 概要
+ORNE project とは？
 orne_navigationとはROSで開発されたナビゲーションパッケージである．
 
 
@@ -17,3 +18,5 @@ orne_navigationとはROSで開発されたナビゲーションパッケージ�
 * ypspur
 ## 上記のもののlaunchディレクトリの中身をみればそれぞれの依存関係を閲覧できる。
 neko
+# References
+* https://github.com/open-rdc/orne_navigation
